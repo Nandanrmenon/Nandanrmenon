@@ -8,6 +8,6 @@ Android Device: POCOPHONE F1 & Redmi 6 Pro
 
 
 
-Check out our ROM![Hornbill](http://hornbillos.github.io)
+Check out our ROM! [Hornbill](http://hornbillos.github.io)
 
 ![HornbillBanner](https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbillbanner.png)
